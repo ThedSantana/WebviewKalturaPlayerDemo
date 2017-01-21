@@ -4,11 +4,13 @@ Project properties
 
 ```sh
 min sdk version: API 22: Android 5.1 (Lollipop)
+screen orientation: landscape
+theme: Full Screen
 ```
 
-Links: 
+Preparing Kaltura Player script
 
-Script can be generated on site:
+Kaltura Player script can be generated on site:
 
 <http://kaltura.github.io/EmbedCodeGenerator/demo/>
 
