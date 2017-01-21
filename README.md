@@ -1,5 +1,4 @@
-WebviewKalturaPlayerDemo \n
-Android Webview Klatura Player Demo
+###WebviewKalturaPlayerDemo
 
 Links: 
 
