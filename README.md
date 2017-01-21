@@ -1,5 +1,10 @@
 ###WebviewKalturaPlayerDemo
 
+Project properies:
+```sh
+min sdk version: API 22: Android 5.1 (Lollipop)
+```sh
+
 Links: 
 
 Script can be generated on site:
