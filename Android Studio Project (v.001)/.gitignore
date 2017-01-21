@@ -1,5 +1,7 @@
 *.iml
 .gradle
+/androidTest
+/test
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
