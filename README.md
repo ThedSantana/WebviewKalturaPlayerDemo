@@ -6,7 +6,7 @@ Script can be generated on site:
 
 <http://kaltura.github.io/EmbedCodeGenerator/demo/>
 
-Parameters:
+Parameters (for example):
 
 ```sh
 Secured Host: cdnapisec.kaltura.com
