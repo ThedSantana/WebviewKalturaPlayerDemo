@@ -17,7 +17,7 @@ Partner Id: 346
 UiConf Id: 36784651
 Entry Id: 1_cnbc1iqr
 Width:470
-Height:270 
+Height:270
 ```
 
 After generation put generated code in webview.htm
