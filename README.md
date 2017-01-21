@@ -1,4 +1,4 @@
-WebviewKalturaPlayerDemo
+WebviewKalturaPlayerDemo \n
 Android Webview Klatura Player Demo
 
 Links: 
@@ -7,10 +7,9 @@ Script can be generated on site:
 
 <http://kaltura.github.io/EmbedCodeGenerator/demo/>
 
-...
-
 Parameters:
 
+```sh
 Secured Host: cdnapisec.kaltura.com
 Protocol: HTTPS
 Embed Type: Auto Embed
@@ -19,7 +18,7 @@ UiConf Id: 36784651
 Entry Id: 1_cnbc1iqr
 Width:470
 Height:270 
-...
+```
 
 After generation put generated code in webview.htm
 
